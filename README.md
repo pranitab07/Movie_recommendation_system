@@ -16,7 +16,7 @@ Before running the application, make sure you have the following installed:
 - pandas
 - scikit-learn
 - streamlit
-- requests
+- nltk
 
 You can install the required packages using pip:
 
