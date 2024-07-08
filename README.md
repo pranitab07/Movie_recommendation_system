@@ -17,9 +17,8 @@ Before running the application, make sure you have the following installed:
 - scikit-learn
 - streamlit
 - requests
-- BeautifulSoup4 (for web scraping if needed)
 
 You can install the required packages using pip:
 
 ```bash
-pip install pandas scikit-learn streamlit requests beautifulsoup4 nltk
+pip install pandas scikit-learn streamlit nltk
